@@ -1,4 +1,4 @@
-# Landingpage Luis Angeloni
+# Landing page - Personal Luis Angeloni
 **Design UX** de uma lading page para o personal trainer **Luis Angeloni**.
 
 <div align="center">
